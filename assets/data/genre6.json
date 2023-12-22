@@ -1,0 +1,116 @@
+
+{
+  "genreType": "COMIC",
+  "titleList": [
+    {
+      "titleId": 814543,
+      "titleName": "너는 그냥 개그만화나 그려라",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814543/thumbnail/thumbnail_IMAG21_b9d0083f-ced5-4ba8-ac33-c685b96d611a.jpg",
+      "thumbnailBadgeList": [
+        "NEW"
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 478261,
+      "titleName": "선천적 얼간이들",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/478261/thumbnail/thumbnail_IMAG21_7fbd8610-0a97-40e3-9c63-101ea07fc4b4.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 2
+    },
+    {
+      "titleId": 811721,
+      "titleName": "무직백수 계백순",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/811721/thumbnail/thumbnail_IMAG21_9a2a959a-666b-4156-8e4f-db64dfe319c6.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 796152,
+      "titleName": "마루는 강쥐",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/796152/thumbnail/thumbnail_IMAG21_26b9c1d8-ca2d-4fc7-87ea-a3334634236a.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 814356,
+      "titleName": "성검전설",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814356/thumbnail/thumbnail_IMAG21_8ab854ac-f59a-4065-9287-cdfc336eb438.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 5
+    },
+    {
+      "titleId": 814541,
+      "titleName": "ㅋㅋ단편.zip",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814541/thumbnail/thumbnail_IMAG21_18a2bffa-6c6e-4884-ab41-45b4646cabe3.jpg",
+      "thumbnailBadgeList": [
+        "NEW"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 809054,
+      "titleName": "네이처맨",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/809054/thumbnail/thumbnail_IMAG21_99e2bc60-6038-44e7-8689-44cf20fbc6f5.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 7
+    },
+    {
+      "titleId": 812339,
+      "titleName": "괴양이",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/812339/thumbnail/thumbnail_IMAG21_0a671218-21a8-4aa6-be1a-ee577c56f72e.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 8
+    },
+    {
+      "titleId": 801589,
+      "titleName": "놓지마 정신줄 시즌3",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/801589/thumbnail/thumbnail_IMAG21_1b439234-e17d-4fb8-9eef-5d2d4173234c.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 671421,
+      "titleName": "언덕 위의 제임스",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/671421/thumbnail/thumbnail_IMAG21_7643171d-08fb-40a8-9da1-813a3b7e784f.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 10
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+
+{
+  "genreType": "THRILL",
+  "titleList": [
+    {
+      "titleId": 660366,
+      "titleName": "마스크걸",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/660366/thumbnail/thumbnail_IMAG21_3774688497130353974.jpg",
+      "thumbnailBadgeList": [
+        "DAILY_PASS",
+        "ADULT"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 774866,
+      "titleName": "똑 닮은 딸",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/774866/thumbnail/thumbnail_IMAG21_46cf2e65-7b7c-4fb7-8f54-0078456d8ff0.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": true,
+      "rank": 2
+    },
+    {
+      "titleId": 813843,
+      "titleName": "맛집",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/813843/thumbnail/thumbnail_IMAG21_7bbc3b88-f67b-4eae-ad76-2531151984a7.jpg",
+      "thumbnailBadgeList": [
+        "NEW"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 742105,
+      "titleName": "미래의 골동품 가게",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/742105/thumbnail/thumbnail_IMAG21_a3860cc1-f927-4031-92fd-8d89b9801127.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 795262,
+      "titleName": "사형소년",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/795262/thumbnail/thumbnail_IMAG21_6904a7bd-e806-4f49-9b00-ee882a86fd4b.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 5
+    },
+    {
+      "titleId": 812124,
+      "titleName": "유쾌한 왕따(재)",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/812124/thumbnail/thumbnail_IMAG21_7e3d71f2-4918-44db-a33b-bd16333eaa8f.jpg",
+      "thumbnailBadgeList": [
+        "ADULT"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 801035,
+      "titleName": "퍼니게임",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/801035/thumbnail/thumbnail_IMAG21_01fd148f-edb2-4ada-9571-910981ec3376.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 7
+    },
+    {
+      "titleId": 804783,
+      "titleName": "사변괴담",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/804783/thumbnail/thumbnail_IMAG21_a80f7760-3c93-4002-84d4-eece85593f84.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 8
+    },
+    {
+      "titleId": 802389,
+      "titleName": "궤짝",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802389/thumbnail/thumbnail_IMAG21_2c396e53-5710-47b4-b9ae-0b9582454479.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 804145,
+      "titleName": "에브리띵 이즈 파인",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/804145/thumbnail/thumbnail_IMAG21_4fef0e05-88f3-44a6-8851-1f1c474e0678.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 10
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+
+{
+  "genreType": "ACTION",
+  "titleList": [
+    {
+      "titleId": 783053,
+      "titleName": "김부장",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783053/thumbnail/thumbnail_IMAG21_d7732f14-26da-4e35-8762-660cc87b53f1.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 758037,
+      "titleName": "참교육",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758037/thumbnail/thumbnail_IMAG21_15cb2611-34c0-4f02-a689-41d0b1016579.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": true,
+      "rank": 2
+    },
+    {
+      "titleId": 808198,
+      "titleName": "촉법소년",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/808198/thumbnail/thumbnail_IMAG21_2aabb538-5b1a-4d74-81ed-b41bb8a155ff.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 736277,
+      "titleName": "싸움독학",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/736277/thumbnail/thumbnail_IMAG21_bbbe3f76-021e-4dbc-830a-4358c1abec0c.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 730694,
+      "titleName": "초인의 시대",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/730694/thumbnail/thumbnail_IMAG21_e6fc219d-e5ea-4d93-b7d6-45b595c2a3cb.jpeg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 5
+    },
+    {
+      "titleId": 670143,
+      "titleName": "헬퍼 2 : 킬베로스",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/670143/thumbnail/thumbnail_IMAG21_12d5d293-d54d-4022-8e00-c97c5779c701.jpg",
+      "thumbnailBadgeList": [
+        "ADULT"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 804862,
+      "titleName": "백XX",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/804862/thumbnail/thumbnail_IMAG21_e2814dcb-83ae-477a-9149-d20fad5bdf92.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 7
+    },
+    {
+      "titleId": 758150,
+      "titleName": "입학용병",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758150/thumbnail/thumbnail_IMAG21_4135492154714961716.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 8
+    },
+    {
+      "titleId": 710751,
+      "titleName": "약한영웅",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/710751/thumbnail/thumbnail_IMAG21_53aefc06-6bdf-40fb-93ac-fab7242146c6.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 774044,
+      "titleName": "투신전생기",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/774044/thumbnail/thumbnail_IMAG21_81504afb-1a05-41b0-9650-0c9aa1d741d9.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 10
+    }
+  ]
+}

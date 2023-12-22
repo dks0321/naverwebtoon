@@ -1,0 +1,116 @@
+
+{
+  "genreType": "SENSIBILITY",
+  "titleList": [
+    {
+      "titleId": 752532,
+      "titleName": "연우의 순정",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/752532/thumbnail/thumbnail_IMAG21_e0dbfa33-e13c-4adc-bf63-a5b26b4a2a3e.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 800506,
+      "titleName": "웅크",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/800506/thumbnail/thumbnail_IMAG21_21640049-34da-44e5-82d7-bbb7aca3a3f8.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 2
+    },
+    {
+      "titleId": 785749,
+      "titleName": "슈퍼스타 천대리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/785749/thumbnail/thumbnail_IMAG21_7d010b0f-a77f-4449-a910-1816e2c547cc.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 742349,
+      "titleName": "나의 첫번째 새벽",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/742349/thumbnail/thumbnail_IMAG21_3616498499428823909.jpg",
+      "thumbnailBadgeList": [
+        "DAILY_PASS"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 816575,
+      "titleName": "정신병동에도 아침이 와요",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/816575/thumbnail/thumbnail_IMAG21_f2582a41-f759-48d7-b836-924ded628340.jpg",
+      "thumbnailBadgeList": [
+        "DAILY_PASS"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 5
+    },
+    {
+      "titleId": 651664,
+      "titleName": "밥 먹고 갈래요?",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/651664/thumbnail/thumbnail_IMAG21_3558468650043455030.jpg",
+      "thumbnailBadgeList": [
+        "FINISH"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 740079,
+      "titleName": "다함께 이겨내요",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/740079/thumbnail/thumbnail_IMAG21_7004049830384579897.jpg",
+      "thumbnailBadgeList": [
+        "FINISH"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 7
+    },
+    {
+      "titleId": 813403,
+      "titleName": "사이비 러브",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/813403/thumbnail/thumbnail_IMAG21_8acfe881-9770-4010-82eb-ce84778b6a64.jpg",
+      "thumbnailBadgeList": [
+        "DAILY_PASS"
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 8
+    },
+    {
+      "titleId": 700139,
+      "titleName": "환생동물학교",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/700139/thumbnail/thumbnail_IMAG21_3919313862966654261.jpg",
+      "thumbnailBadgeList": [
+        "DAILY_PASS"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 794099,
+      "titleName": "북경신보",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/794099/thumbnail/thumbnail_IMAG21_4122256449246475875.jpg",
+      "thumbnailBadgeList": [
+        "DAILY_PASS"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 10
+    }
+  ]
+}

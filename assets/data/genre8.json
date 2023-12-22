@@ -1,0 +1,116 @@
+
+{
+  "genreType": "DRAMA",
+  "titleList": [
+    {
+      "titleId": 641253,
+      "titleName": "외모지상주의",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/641253/thumbnail/thumbnail_IMAG21_01672165-03c8-44b1-ba0e-ef82c9cfcd10.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 648419,
+      "titleName": "뷰티풀 군바리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/648419/thumbnail/thumbnail_IMAG21_d9398229-cbfd-47dc-9208-0a6fb936f3a7.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 2
+    },
+    {
+      "titleId": 733074,
+      "titleName": "백수세끼",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/733074/thumbnail/thumbnail_IMAG21_80df3e76-47af-4007-b57c-e8f2830835e5.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 800770,
+      "titleName": "재벌집 막내아들",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/800770/thumbnail/thumbnail_IMAG21_d2e1e7ee-fc83-4030-a1e7-200378bc088f.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 783052,
+      "titleName": "퀘스트지상주의",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783052/thumbnail/thumbnail_IMAG21_800f4c56-26ac-419e-9ed0-baf322311dea.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 5
+    },
+    {
+      "titleId": 654774,
+      "titleName": "소녀의 세계",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/654774/thumbnail/thumbnail_IMAG21_4048794550434817075.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 597447,
+      "titleName": "프리드로우",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/597447/thumbnail/thumbnail_IMAG21_37e97fb1-5572-45cc-8672-2a60b6cb768e.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 7
+    },
+    {
+      "titleId": 751168,
+      "titleName": "상남자",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/751168/thumbnail/thumbnail_IMAG21_529c6125-cf14-435f-94ed-db1a2d499d84.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 8
+    },
+    {
+      "titleId": 725586,
+      "titleName": "1초",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/725586/thumbnail/thumbnail_IMAG21_17f81846-d1a9-43fd-83a4-f9e966b6b977.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 813335,
+      "titleName": "얼짱시대",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/813335/thumbnail/thumbnail_IMAG21_aa6adfc2-a77f-47cb-bb2e-97214f27b301.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 10
+    }
+  ]
+}

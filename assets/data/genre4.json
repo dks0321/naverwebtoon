@@ -1,0 +1,116 @@
+
+{
+  "genreType": "DAILY",
+  "titleList": [
+    {
+      "titleId": 812354,
+      "titleName": "신혼일기",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/812354/thumbnail/thumbnail_IMAG21_f391c11a-9a74-4e0c-b601-2fcebafffd07.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 790713,
+      "titleName": "대학원 탈출일지",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/790713/thumbnail/thumbnail_IMAG21_3919364435331003700.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 2
+    },
+    {
+      "titleId": 814048,
+      "titleName": "마님이네 미국 시골집 이야기",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814048/thumbnail/thumbnail_IMAG21_234ffc80-64de-4765-b059-6888ae0a9fae.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 814398,
+      "titleName": "로맨스 당도 백퍼센트",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814398/thumbnail/thumbnail_IMAG21_23b64b71-1d91-4326-982c-1480462c01e6.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 616239,
+      "titleName": "윌유메리미",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/616239/thumbnail/thumbnail_IMAG21_7c320dd0-7f6e-4645-b82b-e46752ed7375.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 5
+    },
+    {
+      "titleId": 807306,
+      "titleName": "닥터앤닥터 병원일기",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807306/thumbnail/thumbnail_IMAG21_69a712a4-11e8-48bf-9b0c-a26f28c405d8.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 802039,
+      "titleName": "루루라라 우리네 인생",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802039/thumbnail/thumbnail_IMAG21_a7a82a34-586c-4acf-b6f2-ab052be786f1.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 7
+    },
+    {
+      "titleId": 741891,
+      "titleName": "결혼생활 그림일기",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/741891/thumbnail/thumbnail_IMAG21_47b971e4-00b6-451b-862e-1060bae5a80d.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 8
+    },
+    {
+      "titleId": 785703,
+      "titleName": "애옹식당",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/785703/thumbnail/thumbnail_IMAG21_020a4de1-984b-4343-8735-55970b9fda68.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 804333,
+      "titleName": "그냥 선생님",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/804333/thumbnail/thumbnail_IMAG21_b39d8b31-ca85-492f-8588-c766aa2b3c27.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 10
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+.footer{
+    width: 1190px;
+    margin: 45px auto 50px;
+    .group-top{
+        display: flex;
+        gap: 10px;
+    }
+    .f-banner{
+        flex: 1;
+        position: relative;
+        border-radius: 4px;
+        overflow: hidden;
+        border: 1px solid rgba(0,0,0,.1)
+    }
+    .group-bottom{
+        margin-top: 30px;
+    }
+    .top-area{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #ebebeb;
+        height: 32px;
+    }
+    .category-list{
+        display: flex;
+        gap: 10px;
+    }
+    .category-item{
+        position: relative;
+        padding: 0 10px;
+        &::before{
+            position: absolute;
+            top: 4px;
+            left: -3px;
+            width: 1px;
+            height: 13px;
+            background: #ebebeb;
+            content: "";
+        }
+        &:first-child::before{
+            display: none;
+        }
+        a{
+            display: flex;
+            align-items: center;
+            font-size: 16px;
+            font-weight: 700;
+            line-height: 21px;
+            color: #000;
+        }
+        .sub{
+            margin-left: 4px;
+            font-size: 13px;
+            font-weight: 500;
+            line-height: 19px;
+            color: #7f7f7f;
+        }
+    }
+    .link-cs{
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 21px;
+        color: #000;
+    }
+    .bottom-area{
+        display: flex;
+        margin-top: 20px;
+        .col-left{
+            position: relative;
+            width: 626px;
+        }
+        .lt-list{
+            display: flex;
+            flex-wrap: wrap;
+            li{
+                position: relative;
+                display: flex;
+                align-items: center;
+                padding-left: 10px;
+                &::before{
+                    position: absolute;
+                    left: 5px;
+                    width: 1px;
+                    height: 12px;
+                    margin-right: 7px;
+                    background: #ebebeb;
+                    content: "";
+                }
+                &:first-child::before{
+                    display: none;
+                }
+                &:last-child::before{
+                    display: none;
+                }
+                a{
+                    font-size: 13px;
+                    font-weight: 500;
+                    line-height: 19px;
+                    color: #7f7f7f;
+                }
+            }
+        }
+        .col-right{
+            flex: 1;
+            padding-left: 30px;
+            border-left: 1px solid #ebebeb;
+            .rt-list{
+                display: flex;
+                flex: 1;
+                flex-wrap: wrap;
+            li{
+                position: relative;
+                display: flex;
+                align-items: center;
+                padding-left: 10px;
+                &::before{
+                    position: absolute;
+                    left: 5px;
+                    width: 1px;
+                    height: 12px;
+                    margin-right: 7px;
+                    background: #ebebeb;
+                    content: "";
+                }
+                &:first-child::before{
+                    display: none;
+                }
+                &:last-child::before{
+                    display: none;
+                }
+                a{
+                    font-size: 13px;
+                    font-weight: 500;
+                    line-height: 19px;
+                    color: #7f7f7f;
+                }
+            }
+        }
+        }
+    }
+    .group-info{
+        flex-wrap: wrap;
+        width: 680px;
+        margin: 30px 0 0;
+        p{
+            margin-top: 30px;
+            font-size: 13px;
+            font-weight: 500;
+            line-height: 19px;
+            color: #7f7f7f;
+        }
+    }
+    .info-area{
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+    .f-txt{
+        margin-bottom: 5px;
+        font-size: 13px;
+        font-weight: 500;
+        line-height: 13px;
+        color: #7f7f7f;
+    }
+}

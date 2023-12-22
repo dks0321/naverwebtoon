@@ -1,0 +1,116 @@
+
+{
+  "genreType": "FANTASY",
+  "titleList": [
+    {
+      "titleId": 747269,
+      "titleName": "전지적 독자 시점",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/747269/thumbnail/thumbnail_IMAG21_aabd9952-ff45-47a2-a543-33f19a5c6708.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 650305,
+      "titleName": "호랑이형님",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/650305/thumbnail/thumbnail_IMAG21_3631086797392995425.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 2
+    },
+    {
+      "titleId": 773797,
+      "titleName": "나 혼자 만렙 뉴비",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/773797/thumbnail/thumbnail_IMAG21_4dda13fe-417f-45b9-9696-880f2487d41d.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 183559,
+      "titleName": "신의 탑",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/183559/thumbnail/thumbnail_IMAG21_5f3fec31-5c95-4afe-a73f-3046288edb47.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 784248,
+      "titleName": "내가 키운 S급들",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/784248/thumbnail/thumbnail_IMAG21_20a8aca7-23d3-4bc0-9916-a31ebc884ca8.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": true,
+      "rank": 5
+    },
+    {
+      "titleId": 792651,
+      "titleName": "99강화나무몽둥이",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/792651/thumbnail/thumbnail_IMAG21_218f18ef-7f68-4d6a-972c-686a3e9f6138.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 727188,
+      "titleName": "취사병 전설이 되다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/727188/thumbnail/thumbnail_IMAG21_d4726354-42bc-4bdf-b500-02c951082eeb.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 7
+    },
+    {
+      "titleId": 789979,
+      "titleName": "멸망 이후의 세계",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/789979/thumbnail/thumbnail_IMAG21_792cd36e-d722-4970-933b-3da7c37ee812.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 8
+    },
+    {
+      "titleId": 753478,
+      "titleName": "데드퀸",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/753478/thumbnail/thumbnail_IMAG21_4049077133597095219.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 795297,
+      "titleName": "신화급 귀속 아이템을 손에 넣었다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/795297/thumbnail/thumbnail_IMAG21_4134925888999731505.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 10
+    }
+  ]
+}

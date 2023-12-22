@@ -1,0 +1,116 @@
+
+{
+  "genreType": "PURE",
+  "titleList": [
+    {
+      "titleId": 802293,
+      "titleName": "앞집나리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802293/thumbnail/thumbnail_IMAG21_a3e4736d-dfd6-4e76-aec6-b145f4123845.jpg",
+      "thumbnailBadgeList": [
+        "ADULT"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 807859,
+      "titleName": "성스러운 작가생활",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807859/thumbnail/thumbnail_IMAG21_f76458b0-e807-480e-b44c-3437d9888a75.jpg",
+      "thumbnailBadgeList": [
+        "ADULT"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 2
+    },
+    {
+      "titleId": 735661,
+      "titleName": "재혼 황후",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/735661/thumbnail/thumbnail_IMAG21_4b3c44a0-f286-4878-bac3-84c3ec9dc0a1.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 797410,
+      "titleName": "남편을 죽여줘요",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/797410/thumbnail/thumbnail_IMAG21_9852442e-217e-4ec7-92a7-21c0ada85dc7.jpg",
+      "thumbnailBadgeList": [
+        "ADULT"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 796867,
+      "titleName": "버림받은 왕녀의 은밀한 침실",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/796867/thumbnail/thumbnail_IMAG21_77aa5064-b42b-4838-912e-2c6266c53a74.jpg",
+      "thumbnailBadgeList": [
+        "ADULT"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 5
+    },
+    {
+      "titleId": 814512,
+      "titleName": "사내연애 사절!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814512/thumbnail/thumbnail_IMAG21_822d18b7-4c27-4cb0-9966-2b156aceaac0.jpg",
+      "thumbnailBadgeList": [
+        "NEW"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 798917,
+      "titleName": "언니, 이번 생엔 내가 왕비야",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/798917/thumbnail/thumbnail_IMAG21_ca84bfa2-c1c8-4621-9b4b-26dc745606f5.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": true,
+      "rank": 7
+    },
+    {
+      "titleId": 793275,
+      "titleName": "작전명 순정",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/793275/thumbnail/thumbnail_IMAG21_30c77a8d-ada1-40f8-b87a-d02bb05e7e13.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 8
+    },
+    {
+      "titleId": 813552,
+      "titleName": "우아한 욕망",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/813552/thumbnail/thumbnail_IMAG21_c81f8080-3781-4789-9411-a171d501b01a.jpg",
+      "thumbnailBadgeList": [
+        "ADULT"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 790245,
+      "titleName": "어쩌다보니 천생연분",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/790245/thumbnail/thumbnail_IMAG21_3545003845982959922.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": true,
+      "rank": 10
+    }
+  ]
+}

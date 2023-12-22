@@ -1,0 +1,117 @@
+
+{
+  "genreType": "SPORTS",
+  "titleList": [
+    {
+      "titleId": 602910,
+      "titleName": "윈드브레이커",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/602910/thumbnail/thumbnail_IMAG21_e861f2cf-6157-4d33-8e02-7b4cbf0a8baf.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 703844,
+      "titleName": "가비지타임",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/703844/thumbnail/thumbnail_IMAG21_5ddcb40e-1f6a-40f3-b2c4-6cd9a7eee843.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 2
+    },
+    {
+      "titleId": 750826,
+      "titleName": "빌드업",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/750826/thumbnail/thumbnail_IMAG21_8bf7d36d-d865-4df0-b76f-f72f288bb2cd.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 814587,
+      "titleName": "펜홀더",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814587/thumbnail/thumbnail_IMAG21_40ab2ca2-1b9a-41b5-9577-2dec3d4d6ef7.jpg",
+      "thumbnailBadgeList": [
+        "NEW"
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 807775,
+      "titleName": "천재 타자가 강속구를 숨김",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807775/thumbnail/thumbnail_IMAG21_91cb8ff9-5be3-40ba-8df9-661972577cd2.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 5
+    },
+    {
+      "titleId": 753839,
+      "titleName": "빅맨",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/753839/thumbnail/thumbnail_IMAG21_3835153067459896165.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 732021,
+      "titleName": "탑코너",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/732021/thumbnail/thumbnail_IMAG21_3617062741365437232.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 7
+    },
+    {
+      "titleId": 701535,
+      "titleName": "격기3반",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/701535/thumbnail/thumbnail_IMAG21_2abe5b1a-9104-417f-9995-0db15c6db7be.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": true,
+      "rank": 8
+    },
+    {
+      "titleId": 807314,
+      "titleName": "원포인트",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807314/thumbnail/thumbnail_IMAG21_176143e6-3d43-495d-b60e-4dae06bc10e2.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": true,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 775140,
+      "titleName": "인피니티",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/775140/thumbnail/thumbnail_IMAG21_2de7a216-571b-4bf9-81b6-11b37126d328.jpg",
+      "thumbnailBadgeList": [
+        
+      ],
+      "up": false,
+      "rest": false,
+      "rank": 10
+    }
+  ]
+}
+
